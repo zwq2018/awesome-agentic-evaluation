@@ -203,6 +203,7 @@ Multi-agent evaluation is an emerging area that tests how agents collaborate, co
 
 These benchmarks aim to measure agent capabilities on tasks that resemble actual human work — information gathering, analysis, multi-step problem solving, and professional expertise.
 
+- [**EmbodiedMemory-Bench**](https://arxiv.org/abs/2609.28236) — Evaluates whether memory from earlier observations and interactions supports later embodied actions across 2,554 AI2-THOR episodes, including changing world states and experience generalization.
 - [**GAIA**](https://huggingface.co/gaia-benchmark) — Benchmark for general AI assistants that require multi-step reasoning, tool use, and real-world problem solving. Tasks are designed so that a human can verify the answer easily but solving requires genuine capability. Meta / HuggingFace.
 - [**GDPval**](https://arxiv.org/abs/2510.04374) — Benchmark for economically valuable expert work across occupations and sectors. Maps agent capabilities to real economic value.
 - [**GDPval in Inspect Evals**](https://github.com/UKGovernmentBEIS/inspect_evals) — Example of integrating GDPval into the UK AI Safety Institute's broader open evaluation ecosystem.
